@@ -19,14 +19,14 @@ Handling API Rate Limits and Errors
 Implements exception handling for API errors (e.g., HTTP 429 Too Many Requests).
 Introduces a retry mechanism or delay if API requests are throttled.
 
-How to Run the Code
-Prerequisites
+How to Run the Code:
+Prerequisites::
 Java 8 or later installed
 Maven installed
 Eclipse or any Java IDE
-Git installed
+Git installed.
 
-Steps to Run
+Steps to Run:: 
 Clone the Repository
 Navigate to the Project Directory
 Build the Project
