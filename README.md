@@ -21,13 +21,13 @@ Introduces a retry mechanism or delay if API requests are throttled.
 
 How to Run the Code:
 Prerequisites::
-Java 8 or later installed
-Maven installed
-Eclipse or any Java IDE
+Java 8 or later installed,
+Maven installed, 
+Eclipse or any Java IDE, 
 Git installed.
 
 Steps to Run:: 
-Clone the Repository
-Navigate to the Project Directory
-Build the Project
-Run the Application
+1. Clone the Repository,
+2. Navigate to the Project Directory,
+3. Build the Project,
+4. Run the Application.
